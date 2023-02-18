@@ -20,6 +20,7 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 
 
 ---
+## Deneme
 
 ## README’yi görüntüle
 İlk adım tamamlandı. Hoş geldiniz ve sonraki adımlarda iyi şanslar.
